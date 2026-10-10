@@ -16,7 +16,7 @@ Copy the skill folders into your Hermes skills folder, then start a NEW Hermes s
     git clone https://github.com/jflatnote/s4h-hermes.git
     cp -R s4h-hermes/skills/. ~/.hermes/skills/
 
-Status: draft. This install command has not yet been tested from a clean Hermes setup.
+Status: tested on 2026-10-09. The repository was cloned and its skills/ folder was copied into a fresh Hermes home; `hermes skills list` found all 35 skills. Start a new Hermes session after copying.
 
 ## Use
 
